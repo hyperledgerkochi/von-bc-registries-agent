@@ -13,3 +13,4 @@ awscli<1.14.0
 JSONBender
 aiohttp
 pytz
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
