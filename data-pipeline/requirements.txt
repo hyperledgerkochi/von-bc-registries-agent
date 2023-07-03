@@ -9,7 +9,7 @@
 gunicorn
 
 # downloading data from s3
-awscli<1.14.0
+awscli<1.27.90
 JSONBender
 aiohttp
 pytz
